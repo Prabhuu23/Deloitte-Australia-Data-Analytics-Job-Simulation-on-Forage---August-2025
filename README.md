@@ -1,2 +1,4 @@
 # Deloitte-Australia-Data-Analytics-Job-Simulation-on-Forage---August-2025
-Deloitte Australia Data Analytics Job Simulation on Forage - August 2025  Completed a Deloitte job simulation involving data analysis and forensic technology  Created a data dashboard using Tableau  Used Excel to classify data and draw business conclusions
+Completed a Deloitte job simulation involving data analysis and forensic technology 
+Created a data dashboard using Tableau 
+Used Excel to classify data and draw business conclusions
